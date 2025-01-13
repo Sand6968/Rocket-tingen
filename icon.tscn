@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://burnia0nssft"]
+
+[ext_resource type="Texture2D" uid="uid://c6qi77i6wm6pq" path="res://icon.svg" id="1_tqgae"]
+
+[node name="Icon" type="Sprite2D"]
+position = Vector2(367, 206)
+scale = Vector2(6.25, 1.30469)
+texture = ExtResource("1_tqgae")
